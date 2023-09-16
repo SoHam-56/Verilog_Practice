@@ -1,0 +1,9 @@
+Issues in codes are described inside PDF along with the codes.
+
+Assignment 1:
+    22 * 15 using 8 bit Multiplier only
+    Complex multiplication
+    Circuit Comparison
+
+Assignment 2:
+    CPU design
